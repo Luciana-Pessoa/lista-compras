@@ -15,6 +15,7 @@ A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo 
 
 As técnicas e tecnologias utilizadas pra isso são:
 
+
 - `HTML`: criação dos elementos da tela;
 - `CSS`: estilização da aplicação;
 - `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
