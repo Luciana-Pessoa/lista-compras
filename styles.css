@@ -100,3 +100,17 @@ form {
     align-items: center;
     justify-content: space-between;
 }
+
+.container-nome-compra {
+    display: flex;
+}
+
+ul {
+    list-style-type: none;
+    width: 100%;
+}
+
+.item-lista-texto {
+    font-size: 12px;
+    line-height: 20px;
+}
