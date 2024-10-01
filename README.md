@@ -1,6 +1,8 @@
 
 
-# Titulo do projeto
+# Pagina do projeto
+
+https://luciana-pessoa.github.io/lista-compras/
 
 Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
 
