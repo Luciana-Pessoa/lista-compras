@@ -1,4 +1,5 @@
 import { verificarListaComprados } from "./verificarListaComprados.js";
+const listaDeCompras = document.getElementById("lista-de-compras");
 
 const listaComprados = document.getElementById("lista-comprados");
 let contador = 0;
