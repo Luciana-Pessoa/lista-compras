@@ -19,8 +19,6 @@ function adicionarItem(evento) {
      const botaoRemover = document.createElement("button");
      botaoRemover.classList.add("item-lista-button");
         
-     itemDaLista.appendChild(containerItemLista);
-
      const imagemRemover = document.createElement("img");
      imagemRemover.src = "img/delete.svg";
      imagemRemover.alt = "Remover";
