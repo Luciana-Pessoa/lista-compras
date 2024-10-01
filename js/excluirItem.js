@@ -1,4 +1,5 @@
-import { verificarListaComprados } from "./verificarListaComprados";
+import { verificarListaComprados } from "./verificarListaComprados.js";
+import { verificarListaVazia } from "./verificarListaVazia.js"
 
 const listaDeCompras = document.getElementById("lista-de-compras");
 const listaComprados = document.getElementById("lista-comprados");
@@ -14,4 +15,4 @@ const excluirItem = (elemento) => {
     }
 }
 
-export {excluirItem };
+export { excluirItem };
