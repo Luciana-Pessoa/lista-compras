@@ -1,5 +1,4 @@
 
-
 # Pagina do projeto
 
 https://luciana-pessoa.github.io/lista-compras/
